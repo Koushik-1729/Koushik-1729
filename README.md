@@ -6,5 +6,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushik-1729&show_icons=true&locale=en&layout=compact" alt="koushik-1729" /></p>
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koushik-1729&theme=react&line_height=40&hide=css"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koushik-1729&theme=gruvbox&line_height=40&hide=css"/> </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushik-1729&" alt="koushik-1729" /></p>
