@@ -6,3 +6,4 @@
 
 
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koushik-1729&theme=light&line_height=40&hide=css"/> </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushik-1729&" alt="koushik-1729" /></p>
